@@ -17,8 +17,14 @@
 
 # 🌷 About Me
 
+<div align="center">
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="250"/>
+
+</div>
+
 ```python
-class Acaca():
+class Acaca:
 
     def __init__(self):
         self.name = "Acaca 💖"
@@ -28,66 +34,70 @@ class Acaca():
         self.hobbies = ["Coding ☕", "Music 🎧", "Pink Aesthetic 🌸"]
 
     def say_hi(self):
-        print("Thanks for visiting my GitHub 💕")
+        return "Thanks for visiting my GitHub 💕"
 
 me = Acaca()
-me.say_hi()
+print(me.say_hi())
 ```
 
 🌸 Turning coffee into code  
 💖 Building cute things with Python & data  
 ✨ Learning something new every single day
 
-
 # 🎀 Tech Stack
+
+<div align="center">
+
+╭────────────୨ৎ────────────╮
 
 ## 🤖 AI / Data
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
 
-<img src="https://img.shields.io/badge/scikit--learn-ff69b4?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-ff69b4?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
----
+╰────────────୨ৎ────────────╯
+
+╭────────────୨ৎ────────────╮
 
 ## 💻 Languages
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,r" />
-</p>
 
----
+╰────────────୨ৎ────────────╯
+
+╭────────────୨ৎ────────────╮
 
 ## 📊 Data Analytics
 
-<p align="left">
-
 <img src="https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-ffb6c1?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-ffc0cb?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tableau-ff69b4?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Jupyter-ffb6c1?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-ffc0cb?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-</p>
+╰────────────୨ৎ────────────╯
 
----
+╭────────────୨ৎ────────────╮
 
 ## 🗄️ Databases
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
----
+╰────────────୨ৎ────────────╯
+
+╭────────────୨ৎ────────────╮
 
 ## ⚙️ Tools
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,github" />
-</p>
+
+╰────────────୨ৎ────────────╯
+
+</div>
+
 ---
 
 # 📊 GitHub Analytics
@@ -109,7 +119,7 @@ me.say_hi()
 <img src="https://streak-stats.demolab.com?user=acaca675&theme=tokyonight"/>
 
 </div>
----
+
 
 # 💖 LeetCode Analytics
 
@@ -118,7 +128,7 @@ me.say_hi()
 <img src="https://leetcard.jacoblin.cool/acaca675?theme=unicorn&font=Baloo&ext=heatmap"/>
 
 </div>
----
+
 
 # 🌸 Featured Projects
 
