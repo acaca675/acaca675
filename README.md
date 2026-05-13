@@ -75,12 +75,13 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=acaca675&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF4FA3&icon_color=FF85C1&text_color=FFB7D5&bg_color=1a0010" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaca675&layout=compact&theme=rose_pine&hide_border=true&title_color=FF4FA3&text_color=FFB7D5&bg_color=1a0010" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=acaca675&show_icons=true&theme=rose_pine&hide_border=true&title_color=FF4FA3&icon_color=FF85C1&text_color=FFB7D5&bg_color=1a0010&cache_seconds=1800" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaca675&layout=compact&theme=rose_pine&hide_border=true&title_color=FF4FA3&text_color=FFB7D5&bg_color=1a0010&cache_seconds=1800&langs_count=6" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=acaca675&theme=rose_pine&hide_border=true&ring=FF4FA3&fire=FF85C1&currStreakLabel=FFB7D5" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=acaca675&theme=rose_pine&hide_border=true&ring=FF4FA3&fire=FF85C1&currStreakLabel=FFB7D5&background=1a0010&stroke=FF85C1&sideLabels=FFB7D5&dates=FF85C1" />
 
 </div>
 
@@ -89,7 +90,19 @@
 ## ꒰ა 💖 leetcode ໒꒱
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/acaca675?theme=unicorn&font=Baloo&ext=heatmap&border=0" />
+
+<img src="https://leetcard.jacoblin.cool/acaca675?theme=unicorn&font=Baloo&ext=heatmap&border=0&radius=16" />
+
+<br/><br/>
+
+<!-- LeetCode badges -->
+![LeetCode](https://img.shields.io/badge/LeetCode-acaca675-FF4FA3?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Keep_Grinding-💪_Every_Day-FFB7D5?style=for-the-badge)
+
+<br/>
+
+> *"Every problem solved is a step closer to the dream. 🌸"*
+
 </div>
 
 ---
@@ -99,12 +112,20 @@
 <div align="center">
 
 <a href="https://github.com/acaca675/sales-analysis-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=acaca675&repo=sales-analysis-python&theme=rose_pine&hide_border=true&title_color=FF4FA3&icon_color=FF85C1&text_color=FFB7D5&bg_color=1a0010" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=acaca675&repo=sales-analysis-python&theme=rose_pine&hide_border=true&title_color=FF4FA3&icon_color=FF85C1&text_color=FFB7D5&bg_color=1a0010&cache_seconds=1800" />
 </a>
 
 </div>
 
-> 📊 End-to-end sales data analysis · Python · Pandas · Data Visualization ✨
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🛠️ **Tech** | Python · Pandas · Matplotlib |
+| 📌 **Type** | End-to-end Sales Data Analysis |
+| ✨ **Highlight** | Data cleaning, visualization & insight |
+
+</div>
 
 ---
 
