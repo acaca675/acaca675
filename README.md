@@ -2,7 +2,11 @@
 
 # 🌸 Hi there, I'm Acaca 💖
 ![](https://komarev.com/ghpvc/?username=acaca675&color=ff69b4&style=for-the-badge)
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="280"/>
+<div align="center">
+
+<img src="hhttps://tenor.com/bWyCd.gif" width="280"/>
+
+</div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%92%96;Cute+Girl+Who+Loves+Coding+%F0%9F%8C%B8;Python+%7C+SQL+%7C+Data+Analytics;Building+Dreams+With+Code+%E2%9C%A8" />
 
 </div>
@@ -16,12 +20,6 @@
 ---
 
 # 🌷 About Me
-
-<div align="center">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="250"/>
-
-</div>
 
 ```python
 class Acaca:
