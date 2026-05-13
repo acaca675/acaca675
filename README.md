@@ -1,6 +1,11 @@
 <div align="center">
 
-# 🌸 Hi there, I'm Bilwa 💖
+# 🌸 Hi there, I'm Acaca 💖
+![](https://komarev.com/ghpvc/?username=acaca675&color=ff69b4&style=for-the-badge)
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%92%96;Cute+Girl+Who+Loves+Coding+%F0%9F%8C%B8;Python+%7C+SQL+%7C+Data+Analytics;Building+Dreams+With+Code+%E2%9C%A8" />
+
+</div>
 
 ### `Python Developer` • `SQL Learner` • `Data Analyst`
 
@@ -12,12 +17,31 @@
 
 # 🌷 About Me
 
-💖 A girl who loves coding, coffee, and cute aesthetics  
-📊 Passionate about Data Analytics & Python  
-🌸 Currently learning automation and machine learning  
-✨ Turning ideas into beautiful projects
+```python
+class Acaca():
 
+    def __init__(self):
+        self.name = "Acaca 💖"
+        self.role = "Python Developer"
+        self.language = ["Python", "SQL", "Java"]
+        self.learning = ["Machine Learning", "Automation", "Data Analytics"]
+        self.hobbies = ["Coding ☕", "Music 🎧", "Cute Aesthetics 🌸"]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile 💕")
+
+
+me = Acaca()
+me.say_hi()
+```
+
+🌸 Turning coffee into code since day one  
+💖 Building beautiful things with Python & data  
+✨ Small progress every day still matters
 ---
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+# 🎀 Tech Stack
 
 # 🎀 Tech Stack
 
@@ -47,9 +71,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=acaca675&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=acaca675&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaca675&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaca675&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -59,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=acaca675&theme=radical&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+<img src="https://streak-stats.demolab.com?user=acaca675&theme=tokyonight"/>
 
 </div>
 
@@ -90,8 +114,22 @@ https://github.com/acaca675/sales-analysis-python
 
 ---
 
+# 🎧 Currently Vibing To
+
 <div align="center">
 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sbxexample&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117"/>
+
+</div>
+
+<div align="center">
+<div align="center">
+
+### 💕 Cute Programmer Quote
+
+> “She believed she could debug it, so she did.” 🌸
+
+</div>
 ## 💕 Connect With Me
 
 🌸 GitHub: https://github.com/acaca675
