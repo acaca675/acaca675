@@ -2,11 +2,7 @@
 
 # 🌸 Hi there, I'm Acaca 💖
 ![](https://komarev.com/ghpvc/?username=acaca675&color=ff69b4&style=for-the-badge)
-<div align="center">
 
-<img src="hhttps://tenor.com/bWyCd.gif" width="280"/>
-
-</div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%92%96;Cute+Girl+Who+Loves+Coding+%F0%9F%8C%B8;Python+%7C+SQL+%7C+Data+Analytics;Building+Dreams+With+Code+%E2%9C%A8" />
 
 </div>
@@ -20,23 +16,6 @@
 ---
 
 # 🌷 About Me
-
-```python
-class Acaca:
-
-    def __init__(self):
-        self.name = "Acaca 💖"
-        self.role = "Python Developer"
-        self.languages = ["Python", "SQL", "Java"]
-        self.learning = ["Machine Learning", "Automation", "Data Analytics"]
-        self.hobbies = ["Coding ☕", "Music 🎧", "Pink Aesthetic 🌸"]
-
-    def say_hi(self):
-        return "Thanks for visiting my GitHub 💕"
-
-me = Acaca()
-print(me.say_hi())
-```
 
 🌸 Turning coffee into code  
 💖 Building cute things with Python & data  
